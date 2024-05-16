@@ -1,0 +1,11 @@
+# Ignore node_modules in the backend folder
+node_modules/
+
+# Ignore build artifacts
+dist/
+coverage/
+
+# Ignore environment-specific files
+.env
+
+# Add more patterns as needed
